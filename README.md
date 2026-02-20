@@ -22,6 +22,10 @@ I am passionate about building robust database logic and creating interactive ga
 * **Python:** Database integration (pyodbc), automation scripts, environment management (.env).
 * **.NET:** C# development, Entity Framework.
 
+**Frontend:**
+* **HTML,CSS,JS:** Fundamentals.
+* **React, TS, Tailwind:** Learning.
+
 **Game Development & Art:**
 * **Engines:** Unity, Godot, Unreal Engine (Learning).
 * **Game Logic:** Mechanics prototyping, AI (NavMesh), exploration & crafting systems.
