@@ -45,7 +45,7 @@ A web application simulating cinema operations.
 
 #### Simple_Escape_Game (Unity)
 An exploration-based game featuring crafting, item collection, and quests.
-- **Features:** Custom AI (NavMesh), Blender-made assets.
+- **Features:** Custom AI (NavMesh), Blender-made assets, Crafting System.
 - **Tech:** C#, Unity, Blender.
 
 #### Game Jams
