@@ -35,7 +35,7 @@ A system for managing customer data using T-SQL stored procedures.
 - Solved ID gap issues caused by sequence caching.
 - Implemented secure DB connections via environment variables.
 
-### FastAPI ToDoApp (FastApi) ###
+#### FastAPI ToDoApp (FastApi)
 A backend system to create and manage task with pdf generation.
 - Simple, fast and efficient.
 - Check my repo for more :D!
