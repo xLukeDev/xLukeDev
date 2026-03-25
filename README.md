@@ -4,7 +4,7 @@
 I am passionate about building robust database logic and creating interactive game worlds. I bridge the gap between technical backend engineering and the creative spark required for Game Jams.
 
 ### 👨‍💻 About Me
-- **Current Focus:** Integrating Python with SQL Server and optimizing database procedures. And yes, I build games!
+- **Current Focus:** Focusing on Backend (C# .NET, Python, Java) nad Game Development. And yes, I build games! 🎮
 - **My Approach:** I love understanding how systems work "under the hood" – from SQL sequence management to game code optimization.
 - **In My Spare Time:** I participate in Game Jams, turning wild ideas into playable prototypes in a matter of hours.
 
@@ -34,6 +34,11 @@ I am passionate about building robust database logic and creating interactive ga
 A system for managing customer data using T-SQL stored procedures.
 - Solved ID gap issues caused by sequence caching.
 - Implemented secure DB connections via environment variables.
+
+### FastAPI ToDoApp (FastApi) ###
+A backend system to create and manage task with pdf generation.
+- Simple, fast and efficient.
+- Check my repo for more :D!
 
 #### CinemaApp - Cinema Simulation [.NET]
 A web application simulating cinema operations.
