@@ -4,7 +4,7 @@
 I am passionate about building robust database logic and creating interactive game worlds. I bridge the gap between technical backend engineering and the creative spark required for Game Jams.
 
 ### 👨‍💻 About Me
-- **Current Focus:** Focusing on Backend (C# .NET, Python, Java) nad Game Development. And yes, I build games! 🎮
+- **Current Focus:** Focusing on Backend (C# .NET, Python, Java) nad Game Development. Yeah, I build games! 🎮
 - **My Approach:** I love understanding how systems work "under the hood" – from SQL sequence management to game code optimization.
 - **In My Spare Time:** I participate in Game Jams, turning wild ideas into playable prototypes in a matter of hours.
 
