@@ -50,6 +50,9 @@ An exploration-based game featuring crafting, item collection, and quests.
 - **Features:** Custom AI (NavMesh), Blender-made assets, Crafting System.
 - **Tech:** C#, Unity, Blender.
 
+#### TicTacToe Game C++ 
+A classic two-player Tic-Tac-Toe game written in C++ and running in the console.
+
 #### Game Jams
 * **[Game Name/Event]** – Global Game Jam 2026, STEEL WORKS GAME JAM, AGH GAME JAM AND MORE...
 
