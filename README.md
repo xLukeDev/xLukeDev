@@ -22,7 +22,7 @@ I am passionate about building robust database logic and creating interactive ga
 **Game Development & Art:**
 * **Engines:** Unity, Godot, Unreal Engine (Learning).
 * **Game Logic:** Mechanics prototyping, AI (NavMesh), exploration & crafting systems.
-* **Art & 3D:** 3D Modeling (Blender, 3DS MAX), 2D Assets (Pixel Art).
+* **Art & 3D:** 3D Modeling (Blender, 3DS MAX, Substance Painter), 2D Assets (Pixel Art).
 
 **Tools:**
 * **Dev:** Git, Docker, VS Code, SQL Management Studio (SSMS).
